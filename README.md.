@@ -1,0 +1,47 @@
+# VYRO — OTT Streaming Platform
+
+**Stories that stay with you.**
+
+VYRO is a cinematic OTT streaming platform UI/UX design project created in Figma. It focuses on helping users discover movies and series, explore content, manage a personal watchlist, and navigate a viewing experience through a dark, modern interface.
+
+## Project Overview
+
+VYRO uses a cinematic black-and-red visual identity, poster-led layouts, and reusable UI components to create a consistent entertainment browsing experience.
+
+## Key Features
+
+- Featured content and trending titles
+- Genre-based browsing
+- Search interface
+- Movie detail screens
+- Personal watchlist
+- Continue Watching section
+- Video player interface with subtitle controls
+- Profile management screens
+- Subscription plan screens
+- Desktop-oriented layouts and responsive design exploration
+
+## Design System
+
+- **Background:** `#0E0E0E`
+- **Surface:** `#1D1D1D`
+- **Accent:** `#E50914`
+- **Primary text:** `#F5F5F5`
+- **Secondary text:** `#B2B2B2`
+
+## Tools Used
+
+- Figma — UI/UX design and prototyping
+- GitHub — project documentation and version control
+
+## Prototype
+
+**Figma prototype:** [https://www.figma.com/design/0lburBNkjCl338rKqyRFHW/VYRO-OTT-Streaming-Platform?node-id=0-1&t=0GaPnTE0VbZMiw5U-1]
+
+## Project Status
+
+UI/UX design and prototype project. Features described here represent the intended interface; actual functionality depends on the prototype interactions or a separately implemented application.
+
+## Author
+
+VYRO OTT Streaming Platform — UI/UX Project, 2026.
